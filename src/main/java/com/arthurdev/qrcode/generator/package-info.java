@@ -1,0 +1,1 @@
+package com.arthurdev.qrcode.generator;
